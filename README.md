@@ -1,4 +1,4 @@
-# FacialRecognition
+# Facial Recognition
 
 The idea here is to identify the person in the Webcam which be ater extended for various purposes. For eg: identifing who all are available in teams/zoom meetings or who is coming in through the door.
 
