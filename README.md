@@ -8,4 +8,12 @@ The source of the pic can be really anything , even a database. For a small scal
 
 In the gif below, you can see how well it works even with bad lighting.
 
+
+
 ![sample](https://user-images.githubusercontent.com/53142586/112881719-50e75c80-90cc-11eb-9de0-9d250b869c91.gif)
+
+
+
+
+
+Note: Pictures(of Daniel Radcliffe and Hrithik Roshan)are from google.
